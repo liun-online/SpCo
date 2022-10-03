@@ -6,7 +6,7 @@ import networkx as nx
 # Please notice that other existing augmentations can be obtained by corresponding methods. 
 # Here, we only give the generation of heat matrix and distance matrix.
 # For the heat matrix, the authors give the original code. But we notice that in the given code, 
-# the authors falsely operate exp(¡¤) in an element-wise way, rather than as a matrix exponential operation. Here, we correct the mistake.
+# the authors falsely operate exp(Â·) in an element-wise way, rather than as a matrix exponential operation. Here, we correct the mistake.
 # For the distance matrix, we obey the instruction of the original paper.
 ############################################################
 

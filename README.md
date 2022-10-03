@@ -17,3 +17,22 @@ torch_geometric==1.7.2
 ```
 GPU: GeForce RTX 3090 \
 CPU: Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz
+
+# Usage
+First, go into the target folder. Then, run the following commands:
+```
+# DGI+SpCo
+python execute.py cora --gpu=0
+
+# GRACE+SpCo
+python train.py cora --gpu_id=0
+
+# CCA+SpCo
+python main.py cora --gpu 0
+```
+where "cora" can be replaced by {citeseer, blog, flickr, pubmed}.
+
+# Cite
+
+# Contact
+If you have any questions, please feel free to contact me with {nianliu@bupt.edu.cn}

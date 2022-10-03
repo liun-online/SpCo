@@ -31,7 +31,7 @@ python train.py cora --gpu_id=0
 python main.py cora --gpu 0
 ```
 where "cora" can be replaced by {citeseer, blog, flickr, pubmed}. \
-For each target model, we just add our SpCo on original code with some adaption. Therefore, you can refer to original code for better understanding about the code.
+For each target model, we just add our SpCo on original code with some adaption. Therefore, you can refer to original code for better understanding about our code.
 
 # Cite
 

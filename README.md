@@ -1,6 +1,6 @@
 # SpCo
 This repo is for source code of NeurIPS 2022 paper "Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum". \
-Paper Link: 
+Paper Link: https://arxiv.org/abs/2210.02330
 
 # Environment Settings
 ```

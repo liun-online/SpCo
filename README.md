@@ -34,6 +34,19 @@ where "cora" can be replaced by {citeseer, blog, flickr, pubmed}. \
 For each target model, we just add our SpCo on original code with some adaption. Therefore, you can refer to original code for better understanding about our code.
 
 # Cite
+```
+@inproceedings{spco,
+  author       = {Nian Liu and
+                  Xiao Wang and
+                  Deyu Bo and
+                  Chuan Shi and
+                  Jian Pei},
+  title        = {Revisiting Graph Contrastive Learning from the Perspective of Graph
+                  Spectrum},
+  booktitle    = {NeurIPS},
+  year         = {2022}
+}
+```
 
 # Contact
 If you have any questions, please feel free to contact me with {nianliu@bupt.edu.cn}
